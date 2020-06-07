@@ -1,0 +1,15 @@
+Origin: boogerflicker
+
+Label: boogerflicker's Repo
+
+Suite: BETA
+
+Version: 1.0
+
+Codename: boogerflickerrepo
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: boogerflicker's Cydia Repo
