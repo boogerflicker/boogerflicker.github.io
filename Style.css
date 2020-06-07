@@ -63,14 +63,6 @@ header .btn{
     padding-top:10px;
 }
 
-.css-2::after {
-    content: "";
-  }
-
-  .beermug {
-    font-size: 24px;
-  }
-
 .btn-outline {
     color:#2C001E;
     font-size: 1.2em;
