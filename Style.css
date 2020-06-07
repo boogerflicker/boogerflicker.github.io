@@ -70,7 +70,7 @@ header .btn{
     border: solid 1.5px #2C001E;
     background: transparent;
     transition: all 0.3s ease-in-out;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .btn-outline:hover,
@@ -79,7 +79,7 @@ header .btn{
 .btn-outline.active {
     color: black;
     background:#77216F;
-    border: solid 1.5px black;
+    border: solid 2.0px black;
 }
 
 
