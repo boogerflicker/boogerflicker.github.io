@@ -64,7 +64,7 @@ header .btn{
 }
 
 .css-2::after {
-    content: "\01F37B";
+    content: "";
   }
 
   .beermug {
