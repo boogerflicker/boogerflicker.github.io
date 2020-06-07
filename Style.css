@@ -6,7 +6,7 @@ body {
 header {
     text-align: center;
     background: none;
-    color: #111111;
+    color: #FFFFFF;
 }
 
 header .welcmsg {
@@ -76,7 +76,7 @@ header .btn{
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-    color: white;
+    color: #000000;
     background:#77216F;
     border: solid 1.5px white;
 }
