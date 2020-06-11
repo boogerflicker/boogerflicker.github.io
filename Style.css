@@ -1,12 +1,12 @@
 body {
     font-family: 'Ubuntu',  sans-serif;
     overflow-x: hidden;
-    background-color: black;
+    background-color: #333333;
 }
 
 header {
     text-align: center;
-    background: black;
+    background: #333333;
     color: white;
 }
 
@@ -85,12 +85,12 @@ header .btn{
 
 footer{
     padding-top: 80px;
-    background-color: black;
+    background-color: #333333;
     height:80px;
 }
 footer .footer-above {
     padding-top: 30px;
-    background-color: black;
+    background-color: #333333;
 }
 .btn-social {
     display: inline-block;
